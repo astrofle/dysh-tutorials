@@ -3,5 +3,6 @@ matplotlib
 astropy
 pandas
 specutils
+nbgitpuller
 #dysh
 dysh @ git+https://github.com/GreenBankObservatory/dysh.git@release-0.2.0
