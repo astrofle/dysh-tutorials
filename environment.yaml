@@ -1,0 +1,12 @@
+name: dysh-tutorial-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - astropy
+  - pandas
+  - specutils
+  - nbgitpuller
+  - pip:
+    - dysh @ git+https://github.com/GreenBankObservatory/dysh.git@release-0.2.0
