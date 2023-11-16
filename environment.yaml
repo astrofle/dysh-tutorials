@@ -6,7 +6,7 @@ dependencies:
   - matplotlib
   - astropy
   - pandas
-  - specutils
-  - nbgitpuller
   - pip:
+    - specutils
+    - nbgitpuller
     - dysh @ git+https://github.com/GreenBankObservatory/dysh.git@release-0.2.0
