@@ -6,6 +6,7 @@ dependencies:
   - matplotlib
   - astropy
   - pandas
+  - pip
   - pip:
     - specutils
     - nbgitpuller
